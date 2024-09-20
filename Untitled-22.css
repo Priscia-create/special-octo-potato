@@ -1,0 +1,29 @@
+
+.container {
+    display: flex; 
+    align-items: flex-start; 
+}
+
+.photo {
+    margin-left: 800px; 
+}
+a:hover{
+    border: 2px solid black;
+    padding-left: 30px;
+    padding-top: 30px;
+    margin-left: 75px;
+    margin-right: 150px;
+
+}
+.second-container {
+    display: flex; 
+    align-items: center; 
+}
+
+.second-photo {
+    margin-right: 20px; 
+}
+p {
+    font-family: 'MV Boli', sans-serif;
+    color: #0b0113; 
+}
